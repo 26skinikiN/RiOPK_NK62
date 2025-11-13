@@ -55,7 +55,8 @@
 
 ### Схема данных
 
-**Схема данных **
+<img width="975" height="591" alt="image" src="https://github.com/user-attachments/assets/387d7b06-4696-4363-b771-fb1e1d1d6f01" />
+
 
 ---
 
